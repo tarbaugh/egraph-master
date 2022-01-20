@@ -48,4 +48,4 @@ For 1 GB of eCAR in gzipped-json:
 ~300M+ RDF triples (current build writes actorID triples unecessarily, to be addressed)
 ~37k unique Actor IDs
 ~10 minutes to rewrite into RDF triples (Core i9)
-~3.5 hours minutes to load RDF triples through the live loader (unclear if internet speeds affect this)
+~3.5 hours to load RDF triples through the live loader
